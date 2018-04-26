@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="/Evidencia1/CSS/style.css">
+    </head>
+    <body>
+      <div>
+        <h1>Libro <h1>
+        <form action="Cliente?cmd=libro" method="POST" >
+              <input type="hidden" name="acc" value="guardar">
+                Nombre de Libro<input type="text" name="Nombre Libro">
+                <br>
+                Tipo de Libro<input type="text" name="Tipo de Libro">
+                <br>
+                Editorial<input type="text" name="Editorial">
+                <br>
+                Autor<input type="text" name="Autor">
+                <br>
+                Codigo<input type="text" name="Codigo">
+                <br>
+                <input type="submit" value="Guardar">
+            <input type="submit" value="Ver">
+        </form>
+                <a href="Cliente?cmd=libro&acc=consulta">Consulta de Libros</a>
+                
+                <h1>Actualiza</h1>
+                <form action="Cliente" method="POST">
+                <input type="hidden" name="cmd" value="libro">
+                <input type="hidden" name="acc" value="actualizaLoad">
+                Libro <input type="tex" name="clave">
+                               <input type="submit" />
+                
+    </body>
+</html>
