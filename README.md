@@ -25,6 +25,19 @@ tambien se podra llevar un buen control de los usuarios de cuatos usuarios han i
 ## tabla de contenidos
 
 - [requerimientos](#requerimeintos)
+     - [base de datos](#base-de-datos)
+     -[VERSION JAVA](#VERSION-JAVA)
+-[instalacion](#instalacion)
+      [instrucciones](#instrucciones)
+      [ejecucion de prueba manualmente](#ejecucion-de-prueba-manualmente)
+-[configuarion](#configuracion)
+       -[manuala para usuario final](#manual-para-usuario-final)
+       -[metodo de pago](#metodo-de-pago)
+       -[pedido](#pedido)
+       -[total a pagar](#total-a-pagar)
+       -[futuro a largo mediano plazo](#futuro-a-largo-mediano-plazo)
+       
+       
 
 ## requerimientos
 
@@ -45,6 +58,10 @@ tambien se podra llevar un buen control de los usuarios de cuatos usuarios han i
 ### ejecucion de prueba manualmente
 
 - Las pruebas se realizan de una manera sencilla, si se abre la página principal de phpMyAdmin y no se tiene respuesta es porque no se ha iniciado el servidor MySQL Server.
+
+Otra prueba es al ingresar información en las tablas y que no se guarde el registro en la base de datos.
+
+Las pruebas no pueden ser muy variadas para este sistema porque su funcionamiento es básico y solo interviene el sistema con la base de datos.
 
 ## configuracion 
 
