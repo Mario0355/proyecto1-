@@ -24,32 +24,10 @@ tambien se podra llevar un buen control de los usuarios de cuatos usuarios han i
 
 ## tabla de contenidos
 
-- [requerimientos](#requerimeintos)
-     - [base de datos](#base-de-datos)
-     -[VERSION JAVA](#VERSION-JAVA)
--[instalacion](#instalacion)
-      -[instrucciones](#instrucciones)
-      -[ejecucion de prueba manualmente](#ejecucion-de-prueba-manualmente)
--[configuarion](#configuracion)
-       -[manuala para usuario final](#manual-para-usuario-final)
-       -[metodo de pago](#metodo-de-pago)
-       -[pedido](#pedido)
-       -[total a pagar](#total-a-pagar)
+
        -[futuro a largo mediano plazo](#futuro-a-largo-mediano-plazo)
        
        
-
-## requerimientos
-
-### base de datos 
-
-- MY SQL
-
-### VERSION JAVA 
-
-- NEATBENS 8.2
-
-## instalacion 
 
 ### instrucciones 
 
