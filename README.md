@@ -12,92 +12,40 @@ la mepresa no tiene bien contabilizado su material de almacen y a probocado much
 
 hacer un programa ( docuemtno en excel ) donde se lleve el control de material que entra y sale primero se acomoda el material y se pondra cada cosa en un lugar donde se pueda ubicar rapido despues se va a contabilizar y toda esa informacion se va a vaciar al programa cual se estara actualizando diario y enviar para que los encargados de ventas tengan la informacion actualizada y no tengan problemas al dar la informacion. 
 
-
-
-
-
-## tabla de contenidos
-
-       -[instrucciones] 
-       
-       -[futuro a largo mediano plazo](#futuro-a-largo-mediano-plazo)
-       
-       
+              
 
 ### instrucciones 
 
-- la pagina te abrira una pagina de internet donde estara la pagina principal de la biblioteca donde estaran las opciones de consultar libro o ingresar usuario, si la damos en consultar libro te pedira los datos como, nombre del libro, tipo de libro, editor o escritor.
+- el encargado de actualizar la informacion va a enviar un link al whats de la empresa antes de empesar a trabajar para que vean con cuanto material y que material tenemos en stok ese link se abrira unicamente en modo vista para que nadie mas lo pueda editar y evitar probellmas de control y todo el material que salga o entre se le enviara al encargado para que actualice la informacion 
 
-### ejecucion de prueba manualmente
+### prueba 
 
-- Las pruebas se realizan de una manera sencilla, si se abre la página principal de phpMyAdmin y no se tiene respuesta es porque no se ha iniciado el servidor MySQL Server.
+- este metodo de trabajo de llevara a prueba por una semana para ver como se siente el personar con esa forma de trabajar y si aguiliza mas el trabajo.
 
-Otra prueba es al ingresar información en las tablas y que no se guarde el registro en la base de datos.
+## actualizacion de informacion 
 
-Las pruebas no pueden ser muy variadas para este sistema porque su funcionamiento es básico y solo interviene el sistema con la base de datos.
+- primero el docuemtno se enlazara con onedrive para que se pueda editar ya sea desde un movil o tu compu pero ese docuemto como se enlazo con one drive solo lo úede editar el usuario que tenga la contraseña, y al momento de enviar la documento por medio de vinculo o link se va a dar dos opciones.
+- el primero sera que los usuarios que les envies el documento cualquiera lo puede editar 
+- el segundo es que solo se envie en modo vista osea que nadie puede modificar nada del documento.
 
-## configuracion 
-
-- la configuracion de la biblioteca necesitaras que se instale neatbens para que se enlace con MY SQL y todo lo que ingresemos en neatbens lo guarde directo en MY SQL. 
 
 ## manual para usuario final 
 
-- El usuario ingresará a la aplicación ubicada en el escritorio de la computadora principal. La primera pantalla que visualizará será el menú principal con las opciones:
-
-- consulta de libros 
-- ingresar usuario
-
-## metodos de pago 
+- lo unico que tienen que descargar en su movil es excel y cuando se le envie por whats el link lo puedan abrir sin probelmas 
+- en cuanto a computadora lo que tendran que hacer es abrir whatssapp web e igual al momento que se les envie el link lo puedan abrir y veran la informacion actualizada.
 
 
-- En la pantalla Pagos Trabajadores se controlará la información con referencia a los pagos realizados a los trabajadores tomando en cuenta que los pagos son realizados semanalmente. La pantalla solo cuenta con una tabla donde ingresarán los datos del empleado, dicha tabla tiene las columnas:
 
-Nombre
-Fecha
-Total pago
+## pedidos salientes y material entrante 
 
-el usuario tendra que corroborar que este bien lo que se le esta cobrando y una vez que este seguro que este bien lo que va a pagar se ira para confirmar pago una vez que le de clic tendra que ingresar el numero de tarjeta si quiere factura ingresar sus datos para que se le mande su factura a su correo electronico.
+cuando salen pedidos los encqrgados de ventas se le mandara una whats al enccargado del que actualiza la informacion para que se actualice la informacion y al termino del dia corrobore la informacion que me mandaron y vea si todo esta correcto antes de enviar la informacion 
+y el material que entra la encargada de recibir el material entrante le enviara de igual manera la informacion para al termino del dia le de antreda a ese material para que cuando envie la informacion ya este con el nuevo material que entro.
 
-## pedido 
-
-En la opción Pedidos se tendrá el botón Modificar, al dar clic en el botón el usuario ingresará a la pantalla principal Pedidos y Bordado.
-
-La pantalla controlará las modificaciones de las fechas de entrega para Pedidos y Bordado; en la sección de Pedidos se tendrá un texto donde el usuario ingresará el modelo del libro a buscar, a continuación, dará clic en el botón “Buscar”, en la tabla se mostrarán los resultados a partir de la búsqueda realizada en la base de datos; el usuario seleccionará la fila en la columna del libro deseado.
-
-En la parte inferior de la pantalla se encuentra un texto donde el usuario ingresará el nuevo estatus del modelo seleccionado, teniendo como opciones:
-
-Modificar la fecha de entrega
-Cambiar el estatus a Entregado
-
-En la sección de Bordados se tendrá un TextField donde el usuario ingresará el tipo del libro a buscar, a continuación, dará clic en el botón “Buscar”, en la tabla se mostrarán los resultados a partir de la búsqueda realizada en la base de datos; el usuario seleccionará la fila en la columna del libro deseado.
-
-## total a pagar 
-
-En el menú principal se seleccionará la pestaña Cuenta donde se mostrará el botón Modificar, al dar clic en dicho botón el usuario ingresará en la pantalla principal Cuenta Total.
-
-En la pantalla Cuenta Total se controlará la información de los pedidos realizados por los compradores, se divide en tres secciones:
-
-usuario
-cuantos libros 
-tipo de libro
-
-Las tres tablas cuentan con las mismas columnas las cuales son:
-
-libros 
-No. libros
-Cantidad
-Precio
-Total
-
-## administrador 
-
-- No se cuentan con áreas exclusivas porque este sistema lo utilizará solamente el gerente de la empresa, se instalará solamente en su equipo personal. El administrador podrá ver las mismas funciones que el gerente.
 
 ## futuro a largo mediano plazo
 
 -Los requerimientos por implementar son:
 
-Control en las fechas de entrega, marcar advertencia por fecha de vencimiento en caso de que el libro sea rentado el linea.
-rentar libro en linea.
-Generar reporte mensual de ingresos y egresos.
-Desarrollo de aplicación móvil.
+llevar un excelente manejo de todo el material sin ningun error ya que es muy importante tener todo bien contabilizado 
+la idea es meter mas material nuevo al inventario.
+enseñarle a alguien mas como se maneja el tema del inventario por si un dia se carga mas el trabajo 2 personas llevan a cabo el manejo del inventario.
