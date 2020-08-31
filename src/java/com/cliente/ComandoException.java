@@ -7,7 +7,7 @@ package com.cliente;
 
 /**
  *
- * @author joe 92
+ * @author Mario 
  */
 class ComandoException extends Exception {
 
