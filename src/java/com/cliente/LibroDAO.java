@@ -13,7 +13,7 @@ import java.util.LinkedList;
 
 /**
  *
- * @author joe 92
+ * @author Mario 
  */
 public class LibroDAO {
 
