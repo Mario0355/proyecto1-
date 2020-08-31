@@ -15,7 +15,7 @@ import utils.Conexion;
 
 /**
  *
- * @author Raymundo Jimenez
+ * @author Mario 
  */
 public class clienteDAO {
     private LinkedList lista = new LinkedList();
