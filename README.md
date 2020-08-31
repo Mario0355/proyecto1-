@@ -1,30 +1,25 @@
 # proyecto1-
 
 ## descripcion
-
-biblioteca 
-el proposito del programa es para poder solicitar libros ingresarlos y verificar si se guardan en la base de datos, tambien para que el cliente ingrese sus datos y al momento de que ingrese sus datos y le de ingresar directa mente sus datos se guaeden en base de datos y lo mismo seria para el usuario 
-se uso saron  como base de datos mysql para checar que se guarden los datos que se ponen en el programa se usos neatbens para crear el programa y enlazarlo con las paginas de github y zube
+ 
+El proposito de este proyecto solucionar el problema de la empresa en cuento llevar un buen control del material que sale y entra del almacen una manera sencilla de me ocurrio para poder enviar la informacion y todos lo tengan a la mano de una manera rapida y por si ocupan la informacion de una manera urgente fue hacerlo en excel y ese documento enlazarlo a onedrive para poder editarlo desde mi movil ( el unoico que puede editar ese docuemnto seria yo para que yo pueda tener un buen control sobre el documento ) tambien ese docuentno se podra enviar al whats de la empresa y de puede enviar con las opciones de que todos lo pueden editar o solo en modo vista, diario se estara estara enviando la informacion ya que diario estara entrando y saliendo material y esa informarmacion se tiene que estar actualizando diario a termino de cada jornanda laboral y cada que se empiece a trabajar la informacion ya se encontrara en sus celulares.
 
 ## problema identificado
 
-queremos hacer un programa donde podamos crear una biblioteca virtual, primero subir los libros que estaran disponibles, despues crear el acceso a los usuarios para que puedan ingresar para ver los libros que estan disponibles en la pagina.
-el motivo del proyecto es para poder sacarlo al mercado como una aplicacion o pagina web ya que surgio la idea por un profesor y decidi crear la biblioteca y no queria dejalo en pausa cuando puedo trabajar sobre el proyecto para hacerlo mejor.
+la mepresa no tiene bien contabilizado su material de almacen y a probocado muchos problemas al momento de dar la informacion ya que ellos piensan de que tienen cierta cantidad de material cuando en realidad tienen menos del que tienen apuntado y por ese probelama se les a caido ventas por no contar con la informacion correcta y damos la informacion mal.
 
 ## solucion 
 
-mejorar la pagina corregir los errores que muestra el codigo y empezar a trabajar mas a fondo en la base de datos donded se van a cargar los libros donde se van a almacenar y tambien donde se van a almacenar los datos del usuario.
-tambien se podra llevar un buen control de los usuarios de cuatos usuarios han ingresado, se llebara un buen control en la bse de datos de los libros que se han descargado de que libron han buscado y con ver en los libros que mas buscan y no lo tenemos disponible podremos agregar el libro que buscan y dar un mejor servicio al usuario ( clientes) 
+hacer un programa ( docuemtno en excel ) donde se lleve el control de material que entra y sale primero se acomoda el material y se pondra cada cosa en un lugar donde se pueda ubicar rapido despues se va a contabilizar y toda esa informacion se va a vaciar al programa cual se estara actualizando diario y enviar para que los encargados de ventas tengan la informacion actualizada y no tengan problemas al dar la informacion. 
 
-## arquitectura
 
-![¨](diagrama.jpg)
 
 
 
 ## tabla de contenidos
 
-
+       -[instrucciones] 
+       
        -[futuro a largo mediano plazo](#futuro-a-largo-mediano-plazo)
        
        
