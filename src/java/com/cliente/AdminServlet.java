@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author joe 92
+ * @author Mario
  */
 public class AdminServlet extends HttpServlet {
 
