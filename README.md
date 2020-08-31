@@ -1,32 +1,36 @@
 # proyecto1-
 
 ## descripcion
- 
-El proposito de este proyecto solucionar el problema de la empresa en cuento llevar un buen control del material que sale y entra del almacen una manera sencilla de me ocurrio para poder enviar la informacion y todos lo tengan a la mano de una manera rapida y por si ocupan la informacion de una manera urgente fue hacerlo en excel y ese documento enlazarlo a onedrive para poder editarlo desde mi movil ( el unoico que puede editar ese docuemnto seria yo para que yo pueda tener un buen control sobre el documento ) tambien ese docuentno se podra enviar al whats de la empresa y de puede enviar con las opciones de que todos lo pueden editar o solo en modo vista, diario se estara estara enviando la informacion ya que diario estara entrando y saliendo material y esa informarmacion se tiene que estar actualizando diario a termino de cada jornanda laboral y cada que se empiece a trabajar la informacion ya se encontrara en sus celulares.
+ el proposito de este proyecto es crear una biblioteca vistual donde puedan ya sea rentar o comprar libros crear el codigo mediante neatbens y subirlo a hitgub y enlazarlo con zube.
 
 ## problema identificado
 
-la mepresa no tiene bien contabilizado su material de almacen y a probocado muchos problemas al momento de dar la informacion ya que ellos piensan de que tienen cierta cantidad de material cuando en realidad tienen menos del que tienen apuntado y por ese probelama se les a caido ventas por no contar con la informacion correcta y damos la informacion mal.
+es crear una biblioteca donde se pueda hacer un usuario con contraseña poder rentar libros o comprarlos la dea es tener uan busna cantidad de libros en la pagina donde puedan escoger entre una variedad de libros.
 
 ## solucion 
-
-hacer un programa ( docuemtno en excel ) donde se lleve el control de material que entra y sale primero se acomoda el material y se pondra cada cosa en un lugar donde se pueda ubicar rapido despues se va a contabilizar y toda esa informacion se va a vaciar al programa cual se estara actualizando diario y enviar para que los encargados de ventas tengan la informacion actualizada y no tengan problemas al dar la informacion. 
+en la biblioteca podran buscar por autor o nombre del libro para que al usuario le seamas facil buscar el libro que quiere, la biblioteca se abrira mediante uan pagina web donde los datos de los usuarios que creen su cuenta se guardaran en la base de datos de la pagina 
 
               
 
 ### instrucciones 
 
-- el encargado de actualizar la informacion va a enviar un link al whats de la empresa antes de empesar a trabajar para que vean con cuanto material y que material tenemos en stok ese link se abrira unicamente en modo vista para que nadie mas lo pueda editar y evitar probellmas de control y todo el material que salga o entre se le enviara al encargado para que actualice la informacion 
+- al momento de ingresar a la biblioteca les dira si ya tienen usuario en caso de que ya tengan usuario ingresan su uauario y contraseña ya que en la base de datos se guardara todo. en caso de que no tengan usuario tendran que crear uno para que puedan ingresar 
+una vez adentro podran ver en la pagina principal los libros y tendran apartdos donde podran buscar por 
+-autor 
+.-libro 
+-genero 
 
 ### prueba 
 
-- este metodo de trabajo de llevara a prueba por una semana para ver como se siente el personar con esa forma de trabajar y si aguiliza mas el trabajo.
+- se tendran que hacer varias pruebas para ver si la base de datos esta guardando bien los datos que se le estan ingresando en cuanto a libros y usuarios que ingresen sus datos cuando se ingresan como por ejemplo 
+- nombre de usuario 
+-contraseña 
+- libro 
+- genero 
 
-## actualizacion de informacion 
+## actualizacion  
 
-- primero el docuemtno se enlazara con onedrive para que se pueda editar ya sea desde un movil o tu compu pero ese docuemto como se enlazo con one drive solo lo úede editar el usuario que tenga la contraseña, y al momento de enviar la documento por medio de vinculo o link se va a dar dos opciones.
-- el primero sera que los usuarios que les envies el documento cualquiera lo puede editar 
-- el segundo es que solo se envie en modo vista osea que nadie puede modificar nada del documento.
+se llevara a cabo por neatbeans se estara creando todo el programa y por ese mismo medio se haran las pruebas y ver sie el programa corre adecuadamenete el cual la idea es que puedan pagar por medio de tarjteas ya sea para rentar o vender los libros.
 
 
 ## manual para usuario final 
