@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 
 /**
  *
- * @author joe 92
+ * @author Mario 
  */
 
 public class clienteCMD implements Comando { 
